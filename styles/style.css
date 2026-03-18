@@ -199,6 +199,7 @@ header {
 }
 .card_type_film {
     background-image: url('../images/card-lot-01.jpg');
+    height: 100%;
 }
 .card_type_book {
     background-image: url('../images/card-lot-02.jpg');
@@ -213,9 +214,6 @@ header {
 .card-link {
     height: 100%;
     text-decoration: none;
-}
-.card_type_film {
-    height: 100%;
 }
 .card {
     display: flex;
